@@ -1,1 +1,1 @@
-Hi! I am a computer engineering freshman in a university and this serves as a timeline for my projects :}
+Hi! I am a computer science student in a university and this serves as a timeline for my projects :}
