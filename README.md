@@ -53,11 +53,11 @@
   <img src="tailwindcss.svg" width="60px">
   <img src="svelte.png" width="50px">
   <img src="sql.png" width="50px">
+  <img src="git.png" width="50px">
   <img src="github.png" width="50px">
   <img src="linux.png" width="50px">
   <img src="aws.png" width="50px">
   <img src="jetbrains.png" width="50px">
-  <img src="git.png" width="50px">
 </p>
 
 ---
