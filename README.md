@@ -6,9 +6,10 @@
   <a href="https://www.linkedin.com/in/jann-louie-almirante-035565234/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <div align="center">
-  <a style="margin: 5px;" href="https://web.facebook.com/yesitslui">
+  <a style="" href="https://web.facebook.com/yesitslui">
     <img src="facebook.png" width="50"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/no_not_lui/">
     <img src="instagram.png" width="50"/>
   </a>
@@ -16,11 +17,16 @@
   <!-- <img src="https://komarev.com/ghpvc/?username=lui523202&style=flat-square&color=blue" alt=""/> -->
 </div>
 
-<div style="margin-top: 20px; display: flex; flex-direction: column;">
+<br>
+
+<div style="display: flex; flex-direction: column;">
   <span style="font-size: 40px;">🤵About Me</span>
-  <span style="font-size: 20px; margin-top: 5px; margin-left: 20px;">A fresh full stack developer with hopes for the future in the tech field. Always on the lookout for ways to learn more, to be an asset and is opinionated in this line of work. A natural outgoing individual who is good with handling people and colleagues.</span>
+  <br>
+  <span style="font-size: 20px;">A fresh full stack developer with hopes for the future in the tech field. Always on the lookout for ways to learn more, to be an asset and is opinionated in this line of work. A natural outgoing individual who is good with handling people and colleagues.</span>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<br>
+
+<div align="center" style="">
   <img src="coding.gif"/>
 </div>
