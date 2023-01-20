@@ -20,7 +20,7 @@
 <br>
 
 <div style="display: flex; flex-direction: column;">
-  <span style="font-size: 40px;">🤵About Me</span>
+  # 🤵About Me
   <br>
   <span style="font-size: 20px;">A fresh full stack developer with hopes for the future in the tech field. Always on the lookout for ways to learn more, to be an asset and is opinionated in this line of work. A natural outgoing individual who is good with handling people and colleagues.</span>
 </div>
