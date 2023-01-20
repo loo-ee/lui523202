@@ -21,7 +21,11 @@
 
 # 🤵About Me
 
-## A fresh full stack developer <img src="coding.png" width="35"> with hopes for the future in the tech field. Always on the lookout for ways to learn more, to be an asset and is opinionated in this line of work. A natural outgoing individual who is good with handling people and colleagues.
+## A fresh full stack developer <img src="coding.png" width="35">
+
+- Has hopes for the future in the tech field.
+- Always on the lookout for ways to learn more, and to be an asset
+- Is opinionated in this line of work.
 
 <br>
 
