@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a style="" href="https://web.facebook.com/yesitslui">
+  <a style="" target="_blank" href="https://web.facebook.com/yesitslui">
     <img src="facebook.png" width="50"/>
   </a>
   &nbsp;
